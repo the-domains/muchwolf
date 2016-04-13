@@ -1,0 +1,28 @@
+name: muchwolf
+favicon: null
+layout_spectrum: 0.21647685510106385
+typography_spectrum: 0.16041165683418512
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.07861009612679482
+  lightness: 0.16648099920712411
+  saturation: 0.53682333487086
+  rhythmicContrast: 0.900621744338423
+purpose: []
